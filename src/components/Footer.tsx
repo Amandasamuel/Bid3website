@@ -12,8 +12,7 @@ const Footer = () => {
             <div className="flex items-start space-x-2">
               <MapPin className="w-5 h-5 mt-1" />
               <p>
-                Bid3Realty <br />
-                Datuchi Plaza, Jabi Abuja<br />
+                Datunchi Plaza, Jabi Abuja<br />
                 Nigeria
               </p>
             </div>
