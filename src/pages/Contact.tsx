@@ -96,7 +96,7 @@ const Contact = () => {
                 </p>
                 <p className="flex items-center">
                   <Mail className="w-4 h-4 mr-2" />
-                  markussammuel060@gmail.com
+                  contact.bit3@gmail.com
                 </p>
               </div>
             </div>
