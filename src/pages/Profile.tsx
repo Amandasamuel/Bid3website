@@ -62,15 +62,15 @@ const Profile = () => {
               <h3 className="text-xl font-semibold mb-4">Contact Information</h3>
               <div className="space-y-2">
                 <p>
-                  <span className="font-semibold">Address:</span> Bid3Realty
-                  Datuchi Plaza, Jabi Abuja, Nigeria
+                  <span className="font-semibold">Address:</span> 
+                  Datunchi Plaza, Jabi Abuja, Nigeria
                 </p>
                 <p>
                   <span className="font-semibold">Phone:</span> (+234) 7071468866
                 </p>
                 <p>
                   <span className="font-semibold">Email:</span>{" "}
-                  Markussamuel060@gmail.com
+              contact.bid3@gmail.com
                 </p>
               </div>
             </div>
