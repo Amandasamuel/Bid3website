@@ -92,7 +92,7 @@ const Contact = () => {
               <div className="space-y-2 text-gray-600">
                 <p className="flex items-center">
                   <Phone className="w-4 h-4 mr-2" />
-                  (+234)9014217772
+                  (+234)7071468866
                 </p>
                 <p className="flex items-center">
                   <Mail className="w-4 h-4 mr-2" />

@@ -66,7 +66,7 @@ const Profile = () => {
                   Datuchi Plaza, Jabi Abuja, Nigeria
                 </p>
                 <p>
-                  <span className="font-semibold">Phone:</span> (+234) 79014217772
+                  <span className="font-semibold">Phone:</span> (+234) 7071468866
                 </p>
                 <p>
                   <span className="font-semibold">Email:</span>{" "}
