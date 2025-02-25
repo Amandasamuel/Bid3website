@@ -128,7 +128,7 @@ const Home = () => {
               <img
                 src={property.image}
                 alt={property.title}
-                className="h-48 w-full object-cover"
+                className="h-72 w-full object-cover"
               />
               <div className="p-4">
                 <h3 className="text-xl font-semibold mb-2">{property.title}</h3>

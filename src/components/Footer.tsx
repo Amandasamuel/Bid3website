@@ -36,10 +36,10 @@ const Footer = () => {
               <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" className="hover:text-accent">
                 <Twitter className="w-6 h-6" />
               </a>
-              <a href="https://facebook.com" target="_blank" rel="noopener noreferrer" className="hover:text-accent">
+              <a href="https://www.facebook.com/share/19sHXsJgXB/?mibextid=LQQJ4d" target="_blank" rel="noopener noreferrer" className="hover:text-accent">
                 <Facebook className="w-6 h-6" />
               </a>
-              <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" className="hover:text-accent">
+              <a href="https://www.instagram.com/bid3realty?igsh=emNubmowNjJucm00" target="_blank" rel="noopener noreferrer" className="hover:text-accent">
                 <Instagram className="w-6 h-6" />
               </a>
               <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="hover:text-accent">
