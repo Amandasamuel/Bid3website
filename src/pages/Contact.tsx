@@ -4,6 +4,7 @@ import { Input } from "@/components/ui/input";
 import { Textarea } from "@/components/ui/textarea";
 import { useToast } from "@/components/ui/use-toast";
 import { MapPin, Phone, Mail, Clock } from "lucide-react";
+import Datunchi from "../components/images/Datunchi.jpg";
 
 const Contact = () => {
   const { toast } = useToast();
@@ -72,7 +73,7 @@ const Contact = () => {
                 <h3 className="text-xl font-semibold">Office Location</h3>
               </div>
               <img
-                src="https://images.unsplash.com/photo-1460574283810-2aab119d8511"
+                src={Datunchi}
                 alt="Office"
                 className="w-full h-40 object-cover rounded-lg mb-4"
               />

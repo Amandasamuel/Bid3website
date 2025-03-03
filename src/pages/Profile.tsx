@@ -1,5 +1,8 @@
 // Profile.tsx - Company profile and statistics
 import { Building, Users, Star, Award } from "lucide-react";
+import OUR from "../components/images/our3.jpg";
+import OUR1 from "../components/images/Building5.jpg";
+import OUR2 from "../components/images/Building6.jpg";
 
 const Profile = () => {
   return (
@@ -30,7 +33,7 @@ const Profile = () => {
 
             {/* Company image */}
             <img
-              src="https://images.unsplash.com/photo-1460574283810-2aab119d8511"
+              src={OUR}
               alt="Company Building"
               className="w-full h-64 object-cover rounded-lg mb-8"
             />
@@ -96,12 +99,12 @@ const Profile = () => {
             {/* Company image gallery */}
             <div className="grid grid-cols-2 gap-4">
               <img
-                src="https://images.unsplash.com/photo-1501854140801-50d01698950b"
+                src={OUR1}
                 alt="Office Interior"
                 className="w-full h-40 object-cover rounded-lg"
               />
               <img
-                src="https://images.unsplash.com/photo-1431576901776-e539bd916ba2"
+                src={OUR2}
                 alt="Building Exterior"
                 className="w-full h-40 object-cover rounded-lg"
               />
